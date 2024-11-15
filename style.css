@@ -5,7 +5,7 @@ html {
 
 body {
     margin: 0;
-    background-color: mediumpurple;
+    background: linear-gradient(to right, #aec6cf, #b3d9f5);
     font-family: 'Ubuntu', sans-serif;
 }
 
